@@ -1,0 +1,31 @@
+$info
+
+Name: Paquete-con-cosas;
+Version: 1.0;
+NReg: ABCDEF123456;
+TotalSize: 1024MB;
+TotalArchives: 5;
+Author: John Doe;
+Description: este es un paquete de ejemplo;
+
+$ofni
+
+
+
+$data-start
+
+dir [carpeta1]{
+    https://example.com/example.txt
+	https://example.com/example.log
+	https://example.com/example.html
+	https://example.com/example.wav
+	dir [carpeta2]{
+		https://example.com/example.wmv
+	}
+	https://example.com/example.mp3
+	dir [carpeta3]{
+		https://example.com/example.wmv
+	}
+}
+
+$data-end
