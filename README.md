@@ -61,7 +61,9 @@ No se si lo abras notado pero las carpetas son así:
 
 No elimines la primera carpeta
 
-# Proximamente un PDF y un video explicando esta herramienta
+# Ya tienes un PDF con toda la informacion sobre esta herramienta
+
+# [Click aqui](Masive-Downloader-Tool.pdf)
 
 
 
